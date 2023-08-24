@@ -7,4 +7,5 @@ Equipo 2
 
 Equacion paraa resolver ecuaciones cuadraticas 
 $x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a}$
+
 ## Diego Aranda
