@@ -1,8 +1,8 @@
 # Equipo-2
-Equipo 2
+## Team Repo
 
-## Alejandro Lerma 
+### Alejandro Lerma 
 
-## Emiliano Delgadillo
+### Emiliano Delgadillo
 
-## Diego Aranda
+### Diego Aranda
